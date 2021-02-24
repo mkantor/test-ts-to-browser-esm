@@ -1,3 +1,3 @@
-import $ from 'https://cdnjs.cloudflare.com/ajax/libs/cash/8.1.0/cash.js'
+import $ from 'https://unpkg.com/cash-dom@8.1.0/dist/cash.esm.js'
 
 $('body').html('it works :)')
