@@ -4,7 +4,7 @@
     "target": "ES2015",
     "paths": {
       "https://unpkg.com/cash-dom@8.1.0/dist/cash.esm.js": [
-        "./dependency-types/cash.d.ts"
+        "./dependency-types/cash-dom@8.1.0/cash.d.ts"
       ]
     }
   }
